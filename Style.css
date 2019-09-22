@@ -1,6 +1,19 @@
-body{
-	font-size: 15px;
-	font-family: Comic Sans MS;
-	color: blue;
+body {
+    font-size: 15px;
+    font-family: Comic Sans MS;
+    color: black;
+}
 
+.tabel {
+    margin: 0 auto;
+    background-color: grey;
+    opacity: 0.5;
+    width: 430px;
+    font-size: 20px;
+    color: blue;
+}
+
+.container {
+    font-size: 36px;
+    text-align: center;
 }
