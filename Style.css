@@ -5,12 +5,13 @@ body {
 }
 
 .tabel {
+	padding: 40px;
     margin: 0 auto;
-    background-color: grey;
-    opacity: 0.5;
+    background: rgba(160, 160, 160, 0.7);
+    box-shadow: 0 15px 10px rgba(0,0,0,.5);
     width: 430px;
     font-size: 20px;
-    color: blue;
+    border-radius: 10px;
 }
 
 .container {
